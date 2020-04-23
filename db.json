@@ -2,39 +2,57 @@
     "Celulares": [
         {
             "id": 1,
-            "Modelo": "Redmi 6a"
+            "Modelo": "Redmi 6a",
+            "Color": "Azul Mate",
+            "Año": "2016"
         },
         {
             "id": 2,
-            "Modelo": "Redmi 7a"
+            "Modelo": "Redmi 7a",
+            "Color": "Azul Mate",
+            "Año": "2017"
         },
         {
             "id": 3,
-            "Modelo": "Redmi 8a"
+            "Modelo": "Redmi 8a",
+            "Color": "Azul Mate",
+            "Año": "2018"
         },
         {
             "id": 4,
-            "Modelo": "Redmi 9a"
+            "Modelo": "Redmi 9a",
+            "Color": "Azul Mate",
+            "Año": "2019"
         },
         {
             "id": 5,
-            "Modelo": "Redmi 6"
+            "Modelo": "Redmi 6",
+            "Color": "Rojo Mate",
+            "Año": "2016"
         },
         {
             "id": 6,
-            "Modelo": "Redmi 7"
+            "Modelo": "Redmi 7",
+            "Color": "Rojo Mate",
+            "Año": "2017"
         },
         {
             "id": 7,
-            "Modelo": "Redmi 8"
+            "Modelo": "Redmi 8",
+            "Color": "Rojo Mate",
+            "Año": "2018"
         },
         {
             "id": 8,
-            "Modelo": "Redmi 9"
+            "Modelo": "Redmi 9",
+            "Color": "Rojo Mate",
+            "Año": "2019"
         },
         {
             "id": 9,
-            "Modelo": "Redmi note 8"
+            "Modelo": "Redmi note 8",
+            "Color": "Negro",
+            "Año": "2020"
         }
     ]
 }
