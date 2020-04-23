@@ -1,14 +1,40 @@
 {
-  "Celulares": [
-    { "id": 1, "Modelo": "Redmi 7a" },
-    { "id": 2, "Modelo": "Redmi 8a" },
-    { "id": 3, "Modelo": "Redmi 8" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Celulares": [
+        {
+            "id": 1,
+            "Modelo": "Redmi 6a"
+        },
+        {
+            "id": 2,
+            "Modelo": "Redmi 7a"
+        },
+        {
+            "id": 3,
+            "Modelo": "Redmi 8a"
+        },
+        {
+            "id": 4,
+            "Modelo": "Redmi 9a"
+        },
+        {
+            "id": 5,
+            "Modelo": "Redmi 6"
+        },
+        {
+            "id": 6,
+            "Modelo": "Redmi 7"
+        },
+        {
+            "id": 7,
+            "Modelo": "Redmi 8"
+        },
+        {
+            "id": 8,
+            "Modelo": "Redmi 9"
+        },
+        {
+            "id": 9,
+            "Modelo": "Redmi note 8"
+        }
+    ]
 }
